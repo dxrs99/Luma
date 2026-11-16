@@ -1,0 +1,18 @@
+# .NET / Visual Studio
+**/bin/
+**/obj/
+.artifacts/
+.vs/
+*.user
+*.suo
+
+# Local Luma data and distribution files
+/config/
+/notes/
+/tests/
+/app/
+/app-update/
+/release/
+*.log
+*.exe
+*.zip
